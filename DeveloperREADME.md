@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aude-Nadine
 - 👀 I’m interested in coding, Information Technology
 - 🌱 I’m currently learning Web Develpment
-- 💞️ I’m looking to learn and grow as a Developer
+- 💞️ I’m looking for a career in Software Deveopment
 - 📫 How to reach me: Aude_Nadine@outlook.com
 
 <!---
